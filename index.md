@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+# Welcome to STEM Mantra
 
-You can use the [editor on GitHub](https://github.com/dshrikant/stemmantra/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Our mission
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Empower today's girls to become tomorrow’s leaders through technology and ignite their passion for STEM.
 
 ### Markdown
 
