@@ -1,12 +1,31 @@
 # Welcome to STEM Mantra
+Preparing Girls for BETTER TOMMORROW
 
 ## Our mission
 
 Empower today's girls to become tomorrow’s leaders through technology and ignite their passion for STEM.
 
-### Markdown
+## Our Story
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+TEM Mantra found that young women far less likely to view STEM as a possible career path because of lack of interesting and inspiring technology knowledge and easy access to mentors & role models. We created STEM mantra to ignite power in girls. Our objective is to learn, inspire and innovate to make meaningful social impact. We provide online and on-site technology workshops for girls, hosts programs and initiatives to promote, inspire and build confidence in girls by connecting them with successful female role models from the technology industry to create a positive impact.
+
+
+## TEAM
+
+### Preetal Deshpande
+### Founder and President
+Preetal is a technology enthusiast who has extensive teaching experience. She wishes 
+that all girls must have the opportunity to learn and succeed in STEM. Through her initiatives, she is planning to expand STEM opportunities for girls beyond the Bay Area. She aims to inspire, empower, and educate girls to learn STEM in a fun, engaging, and interactive way.
+
+## Singapore Chapter
+
+## India Chapter
+
+## Atlanta Chapter
+
+## Illinois Chapter
+
+
 
 ```markdown
 Syntax highlighted code block
